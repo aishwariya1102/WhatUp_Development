@@ -13,6 +13,10 @@ Author: Aishwariya
 4.Attachments (Image, Audio, Video) code
 
 5. Hiding the last seen
-6.Test
+
+6.Adding the audio call feature
+
+7.Adding the video call feature
+
 
 
